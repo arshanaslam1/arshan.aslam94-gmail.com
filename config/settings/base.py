@@ -323,7 +323,6 @@ SPECTACULAR_SETTINGS = {
     "TITLE": "MarkFlow API",
     "DESCRIPTION": "Documentation of API endpoints of MarkFlow",
     "VERSION": "1.0.0",
-    "SERVE_PERMISSIONS": ["rest_framework.permissions.IsAdminUser"],
     "SCHEMA_PATH_PREFIX": "/api/",
 }
 # Your stuff...
